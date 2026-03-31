@@ -1,167 +1,139 @@
-# Digital Literacy Project – Student Digital Ambassador
+# Digital Literacy Project — README
+
+---
 
 ## Student Details
 
-**Name:** LUVISH
-**Registration Number:** 25BAI10462
-**Course:** Digital Literacy
-**Role:** Student Digital Ambassador
-**Submission:** Digital Literacy Project Repository
+| Field         | Details                          |
+|---------------|----------------------------------|
+| **Name**      | Luvish Chutani               |
+| **Reg. No.**  | 25BAI10462                       |
+| **Programme** | B.Tech CSE (AI & ML) — 1st Year |
+| **University**| VIT Bhopal                       |
+| **Email**     | luvish.25bai10462@vitbhopal.ac.in |
+| **Course**    | Digital Literacy (CSE0001)       |
+| **Batch**     | 2025 – 2029                      |
 
 ---
 
-# Project Overview
+## Project Overview
 
-This repository contains my Digital Literacy Project completed as part of the Student Digital Ambassador assignment. The purpose of this project is to develop essential digital skills required for academic success, professional communication, and safe internet usage. The project focuses on building awareness about digital literacy, creating a professional online presence, exploring coding and collaboration platforms, learning email etiquette, and understanding cybercrime prevention.
-
-The project is divided into five modules. Each module covers a different area of digital literacy and includes practical tasks along with supporting files. All screenshots, documents, and resources related to each task are organized into separate folders.
+Submitted for the **Digital Literacy (CSE0001)** course at VIT Bhopal.
+Five tasks covering infographic design, platform planning, skill
+development, professional email writing, and cybercrime awareness —
+all aimed at building safe and responsible digital habits.
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```
-Digital-Literacy-Project/
+project-root/
 │
 ├── README.md
-├── report/project-report.pdf
-│
-├── task-1-presentation/
-├── task-2-portfolio/
-├── task-3-platforms/
+├── TASK1-PRESENTATION/
+├── TASK-2-PORTFOLIO/
+├── TASK-3-PLATFORMS/
 ├── task-4-email-etiquette/
-└── task-5-cybercrime/
+│   ├── email-1-extension-request.txt
+│   ├── email-2-internship-interest.txt
+│   └── social-media-checklist.txt
+└── TASK-5-CYBERCRIME/
+    ├── casestudy.pdf
+    └── prevention-checklist.txt
 ```
 
 ---
 
-# Module Summaries
-
-## Module 1 – Digital Literacy Awareness Infographic
-
-In this module, I created a one-page infographic explaining the concept of digital literacy and why it is important for students. The infographic includes safe internet practices, useful student tools, and professional online behavior. I used Canva to design the infographic with icons, colors, and short bullet points for easy understanding.
-
-**Folder:** task-1-presentation/
-**File:** digital-literacy-infographic.png
+## Task Summaries
 
 ---
 
-## Module 2 – Student Digital Portfolio
+### Task 1 — Digital Literacy Awareness Infographic
 
-In this module, I created professional accounts on GitHub, LinkedIn, and Kaggle. These platforms help build an online presence and showcase technical skills. I added my education details on LinkedIn, created a profile README on GitHub, and set up a Kaggle account for machine learning practice.
+Created a one-page infographic using **Canva** covering four areas:
+what digital literacy means, useful tools (Google Workspace, Grammarly,
+Zoom), safe internet practices (strong passwords, 2FA, phishing), and
+building a professional online presence via LinkedIn.
 
-**Folder:** task-2-portfolio/
-
-Platforms Created:
-
-* GitHub Profile
-* LinkedIn Profile
-* Kaggle Profile
-
-Screenshots of each profile are included in this folder.
+> Folder: `TASK1-PRESENTATION/`
 
 ---
 
-## Module 3 – Coding & Collaboration Platforms
+### Task 2 — Platforms for Academic & Professional Growth
 
-In this module, I explored coding practice and collaboration tools.
+Selected three platforms for long-term growth in AI & ML:
 
-Part A:
-I created an account on HackerRank and completed a beginner-level challenge. This helped improve problem-solving skills.
+- **GitHub** — version control and project portfolio  
+- **LinkedIn** — professional networking and visibility 
+- **Kaggle** — real-world datasets, notebooks, and competitions
 
-Part B:
-I created a Digital Literacy Awareness Quiz using Google Forms with five questions. Responses are automatically stored in Google Sheets.
-
-here is the link---> https://forms.gle/LKSCfXXA96RpSJKQ6
-
-**Folder:** task-3-platforms/
-
-Files Included:
-
-* HackerRank Challenge Screenshot
-* Google Form Screenshot
-* Google Sheet Screenshot
+> Folder: `TASK-2-PORTFOLIO/`
 
 ---
 
-## Module 4 – Professional Email & Etiquette Guide
+### Task 3 — Platforms & Tools for Skill Development
 
-This module focuses on professional communication. I wrote two professional emails: one requesting assignment extension and another asking about internship opportunities. I also created a Social Media Do's and Don'ts checklist for responsible online behavior.
+**Part A — Coding Practice:** Created a HackerRank account and
+completed the beginner challenge *"Solve Me First"* in Python.
 
-**Folder:** task-4-email-etiquette/
+**Part B — Google Workspace:** Built a 5-question *"Digital Literacy
+Awareness Quiz"* using Google Forms, linked to Google Sheets for
+automatic response collection. Screenshots saved in the task folder.
+GOOGLE FORM LINK:https://docs.google.com/forms/d/e/1FAIpQLSeOnuy9b_iniS37EL2gt3A3U6OnwdsHJ8WfzHxZoewbRqIsvg/viewform
 
-Files Included:
-
-* email-1.txt
-* email-2.txt
-* social-media-checklist.md
-
----
-
-## Module 5 – Cybercrime Awareness Case Study
-
-In this module, I created a cybercrime awareness case study on UPI Payment Fraud. The case study explains how the fraud works, who is targeted, and its consequences. I also created a prevention checklist with safety tips and reporting channels.
-
-**Folder:** task-5-cybercrime/
-
-Files Included:
-
-* casestudy.md
-* prevention-checklist.md
+> Folder: `TASK-3-PLATFORMS/`
 
 ---
 
-# Links
+### Task 4 — Email Etiquette & Digital Communication
 
+- **Email 1:** Formal extension request to Professor Kannan for the
+  Digital Literacy assignment — follows all professional email rules.
+- **Email 2:** Internship interest email addressed to IBM, highlighting
+  AI & ML background and availability for Summer 2026.
+- **Social Media Checklist:** 7 Do's and 7 Don'ts for responsible
+  social media use as a college student.
+- **Reflection:** The 2013 Justine Sacco Twitter incident — how one
+  impulsive post destroyed a career and what it teaches about
+  permanence in digital communication.
 
-## LinkedIn Profile
-
-www.linkedin.com/in/luvish-chutani-5a365a2b5
-
-## HackerRank Profile
-
-https://www.hackerrank.com/profile/luvish_25bai1041
-
-## Google Form Quiz
-
-https://forms.gle/LKSCfXXA96RpSJKQ6
-
----
-
-# Cybercrime Reporting Links
-
-National Cyber Crime Portal: [https://cybercrime.gov.in](https://cybercrime.gov.in)
-Helpline Number: 1930
+> Folder: `task-4-email-etiquette/`
 
 ---
 
-# Tools Used
+### Task 5 — Cybercrime Awareness
 
-* Canva
-* GitHub
-* LinkedIn
-* Kaggle
-* HackerRank
-* Google Forms
-* Google Sheets
-* VS Code
-* Markdown
+- **Case Study (PDF):** UPI / Online Payment Fraud — a realistic
+  scenario of a student defrauded via a collect request on OLX,
+  with step-by-step breakdown, targets, and consequences.
+- **Prevention Checklist:** 10 actionable tips for college students
+  in India, including 2 dedicated UPI safety tips and the reporting
+  channels: **cybercrime.gov.in** and **Helpline 1930**.
+- **Reflection:** The most surprising finding — UPI fraud requires
+  no technical skill, only the victim's ignorance of how a PIN works.
+  Personal habit to change: never act under payment urgency.
 
----
-
-# Learning Outcomes
-
-Through this project, I learned:
-
-* Importance of digital literacy
-* Building professional online presence
-* Coding practice platforms
-* Google Workspace collaboration
-* Professional email writing
-* Cybercrime awareness and prevention
-* Responsible social media usage
-
-This project helped me understand how to use digital tools effectively, communicate professionally, and stay safe online.
+> Folder: `TASK-5-CYBERCRIME/`
 
 ---
 
+## Key Links
+
+| Resource                    | Link                              |
+|-----------------------------|-----------------------------------|
+| National Cyber Crime Portal | https://www.cybercrime.gov.in     |
+| Cyber Crime Helpline        | **1930** (24x7)                   |
+| IBM Internship Careers      | https://www.ibm.com/careers       |
+| VIT Bhopal                  | https://vitbhopal.ac.in           |
+| VTOP Student Portal         | https://vtop.vitbhopal.ac.in      |
+
+---
+
+## Declaration
+
+All work in this project is original and my own. References to real
+incidents and platforms have been cited appropriately. Submitted in
+accordance with VIT Bhopal's academic integrity guidelines.
+
+**Luvish Chutani** | 25BAI10462 | VIT Bhopal | 25-03-2026
