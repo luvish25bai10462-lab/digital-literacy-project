@@ -72,7 +72,7 @@ I created an account on HackerRank and completed a beginner-level challenge. Thi
 Part B:
 I created a Digital Literacy Awareness Quiz using Google Forms with five questions. Responses are automatically stored in Google Sheets.
 
-here is the link---> https://docs.google.com/forms/d/e/1FAIpQLScgvk-2QH3ax8lR5GXUgLhlgagcHN6rXDTAfEENAzoviJGfgA/viewform?usp=publish-editor
+here is the link---> https://forms.gle/LKSCfXXA96RpSJKQ6
 
 **Folder:** task-3-platforms/
 
