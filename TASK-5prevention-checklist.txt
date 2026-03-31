@@ -1,0 +1,134 @@
+========================================================
+       STAY SAFE ONLINE — COLLEGE STUDENT CHECKLIST
+         Cybercrime Prevention Guide | India Edition
+========================================================
+
+  Prepared by : Luvish Chutani | 25BAI10462
+  Programme   : B.Tech CSE (AI & ML) — 1st Year
+  University  : VIT Bhopal
+  Task        : Task 5 — Cybercrime Awareness
+
+========================================================
+  8 ACTIONABLE PREVENTION TIPS FOR COLLEGE STUDENTS
+========================================================
+
+  [ TIP 1 — UPI & FINANCIAL SAFETY ]
+  ------------------------------------------------------------
+  NEVER enter your UPI PIN to RECEIVE money.
+  A PIN is only required when you are SENDING a payment.
+  If anyone asks you to enter your PIN to "accept" a payment,
+  it is a fraud — reject the request immediately and block
+  the contact.
+
+  [ TIP 2 — UPI & FINANCIAL SAFETY ]
+  ------------------------------------------------------------
+  Do NOT scan QR codes sent by strangers online.
+  Fraudsters send QR codes through WhatsApp or SMS that
+  debit money from your account the moment you scan them.
+  Always generate your own QR code or type the UPI ID
+  manually when making or receiving payments.
+
+  [ TIP 3 — PASSWORD HYGIENE ]
+  ------------------------------------------------------------
+  Use a strong, unique password for every account.
+  Avoid using your name, date of birth, or "1234" as
+  passwords. Use a mix of uppercase, lowercase, numbers,
+  and special characters. Use a free password manager
+  (like Bitwarden) to remember them securely.
+
+  [ TIP 4 — TWO-FACTOR AUTHENTICATION (2FA) ]
+  ------------------------------------------------------------
+  Enable 2FA on all important accounts — email, Instagram,
+  WhatsApp, and banking apps. Even if someone steals your
+  password, they cannot log in without the second
+  verification step sent to your phone or email.
+
+  [ TIP 5 — PHISHING AWARENESS ]
+  ------------------------------------------------------------
+  Never click on suspicious links received via SMS, email,
+  or WhatsApp — even if they appear to be from your bank,
+  NPCI, Amazon, or VIT Bhopal. Fraudsters clone official
+  websites pixel-for-pixel. Always type the URL directly
+  into your browser and check for HTTPS and the correct
+  domain name before entering any details.
+
+  [ TIP 6 — PUBLIC WI-FI SAFETY ]
+  ------------------------------------------------------------
+  Avoid logging into banking apps, UPI platforms, or
+  college portals on public or unsecured Wi-Fi networks
+  (cafes, hostels, malls). Attackers on the same network
+  can intercept your data. Use mobile data or a trusted
+  VPN when accessing sensitive accounts outside your home.
+
+  [ TIP 7 — SOCIAL MEDIA PRIVACY ]
+  ------------------------------------------------------------
+  Never share your Aadhaar number, PAN card, bank account
+  details, college ID, or OTPs on any social media platform
+  or with unknown contacts online. Legitimate institutions
+  will never ask for sensitive documents or OTPs over chat
+  or phone calls.
+
+  [ TIP 8 — APP PERMISSIONS & DOWNLOADS ]
+  ------------------------------------------------------------
+  Only download apps from the official Google Play Store
+  or Apple App Store. Never install APK files sent via
+  WhatsApp or links. When installing any app, review the
+  permissions it requests — a flashlight app does not need
+  access to your contacts, location, or camera.
+
+  [ TIP 9 — ONLINE SELLING SAFETY ]
+  ------------------------------------------------------------
+  When selling items on OLX, Facebook Marketplace, or
+  Quikr, never share your UPI ID publicly in posts. Meet
+  buyers in safe, public locations. Confirm that money has
+  been credited to your account BEFORE handing over the
+  item — do not rely on a screenshot of payment as proof.
+
+  [ TIP 10 — CYBERBULLYING & DIGITAL HARASSMENT ]
+  ------------------------------------------------------------
+  If you receive threatening messages, morphed images, or
+  are being harassed online, do NOT engage or retaliate.
+  Take screenshots of all evidence, block the offender,
+  and report the account directly on the platform. Then
+  file a formal complaint at cybercrime.gov.in.
+
+========================================================
+  IF YOU ARE A VICTIM — WHERE TO REPORT
+========================================================
+
+  STEP 1 : Call the National Cyber Crime Helpline
+           Helpline Number : 1930
+           Available       : 24 hours, 7 days a week
+           Report financial fraud within the FIRST HOUR
+           for the highest chance of blocking the transaction.
+
+  STEP 2 : File an Online Complaint
+           Portal  : https://www.cybercrime.gov.in
+           Managed by the Ministry of Home Affairs, Govt. of India
+           You can report: UPI fraud, phishing, cyberbullying,
+           identity theft, ransomware, and more.
+
+  STEP 3 : Contact Your Bank Immediately
+           Call your bank's 24x7 helpline to freeze or
+           reverse a fraudulent UPI transaction as quickly
+           as possible. Every minute counts.
+
+  STEP 4 : Report to Your College Authorities
+           VIT Bhopal students can also report cyber
+           incidents to the IT Security Cell or Student
+           Grievance Portal on the college website.
+
+========================================================
+  QUICK REFERENCE — GOLDEN RULES
+========================================================
+
+   * PIN = SEND money. Never PIN to receive.
+   * OTP is secret. Never share it with anyone, ever.
+   * When in doubt, don't click, don't scan, don't share.
+   * Urgency is a red flag — fraudsters always rush you.
+   * Report FAST: Call 1930 within the first 60 minutes.
+
+========================================================
+  National Cyber Crime Portal : www.cybercrime.gov.in
+  National Helpline           : 1930 (24x7)
+========================================================
