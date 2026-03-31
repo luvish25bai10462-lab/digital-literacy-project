@@ -113,25 +113,18 @@ Files Included:
 
 # Links
 
-## GitHub Profile
-
-Add your GitHub link here
 
 ## LinkedIn Profile
 
-Add your LinkedIn link here
-
-## Kaggle Profile
-
-Add your Kaggle link here
+www.linkedin.com/in/luvish-chutani-5a365a2b5
 
 ## HackerRank Profile
 
-Add your HackerRank link here
+https://www.hackerrank.com/profile/luvish_25bai1041
 
 ## Google Form Quiz
 
-Add your Google Form link here
+https://forms.gle/LKSCfXXA96RpSJKQ6
 
 ---
 
