@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Arpan Akar
-**Registration Number:** 25BAI10112
+**Name:** LUVISH
+**Registration Number:** 25BAI10462
 **Course:** Digital Literacy
 **Role:** Student Digital Ambassador
 **Submission:** Digital Literacy Project Repository
@@ -172,8 +172,3 @@ This project helped me understand how to use digital tools effectively, communic
 
 ---
 
-# Author
-
-Ayush Gautam
-Student Digital Ambassador
-Digital Literacy Project
